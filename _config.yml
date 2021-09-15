@@ -2,7 +2,7 @@ title: "Affiliates"
 email: hapinesssupport@protonmail.com
 timezone: UTC
 baseurl: "" # the subpath of your site, e.g. /blog
-permalink: "https://hapinesssupport.github.io" 
+url: "https://hapinesssupport.github.io" 
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: Sal
